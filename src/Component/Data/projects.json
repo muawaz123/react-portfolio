@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "title": "MERN Stack Food Delivery App",
+    "description": "Full-stack food delivery app with authentication, cart, and order management."
+  },
+  {
+    "id": 2,
+    "title": "MERN Stack Prescripto App",
+    "description": "Full-stack healthcare app for appointments and prescription management."
+  },
+  {
+    "id": 3,
+    "title": "MERN Stack E-commerce App",
+    "description": "Full-stack e-commerce platform with product management and secure checkout.",
+    "source": "https://e-commerce-frontend-sigma-pink.vercel.app/" 
+  },
+  {
+    "id": 4,
+    "title": "React Food Recipe",
+    "description": "This is a project made with complete React js.",
+    "source": "https://muawaz123.github.io/food-recipe/"
+  },
+  {
+    "id": 5,
+    "title": "React Movie Zone",
+    "description": "This is a project made with complete React js.",
+    "source": "https://muawaz123.github.io/Movie-zone/"
+  },
+  {
+    "id": 6,
+    "title": "React Pixabay Clone",
+    "description": "This is a project made with complete React js.",
+    "source": "https://muawaz123.github.io/Pixabay-clone/"
+  },
+  {
+    "id": 7,
+    "title": "React Government Girls School",
+    "description": "This is a project made with complete React js.",
+    "source": "https://muawaz123.github.io/Govt-Girls-School/"
+  },
+  {
+    "id": 8,
+    "title": "Currency Converter",
+    "description": "This is a project made with complete HTML, CSS, Javascript.",
+    "source": "https://muawaz123.github.io/Currency-Converter/"
+  },
+  {
+    "id": 9,
+    "title": "Loan Calculator",
+    "description": "This is a project made with complete HTML, CSS, Javascript.",
+    "source": "https://muawaz123.github.io/Loan-Calculator/"
+  },
+  {
+    "id": 10,
+    "title": "Portfolio",
+    "description": "This is a project made with complete HTML, CSS, Javascript.",
+    "source": "https://muawaz123.github.io/portfolio/"
+  },
+  {
+    "id": 11,
+    "title": "Time and Date",
+    "description": "This is a project made with complete HTML, CSS, Javascript.",
+    "source": "https://muawaz123.github.io/Time-and-Date/"
+  },
+  {
+    "id": 12,
+    "title": "Unicode Charactor",
+    "description": "This is a project made with complete HTML, CSS, Javascript.",
+    "source": "https://muawaz123.github.io/Get-Unicode-Charactor-Value/"
+  },
+  {
+    "id": 13,
+    "title": "Counter Application",
+    "description": "This is a project made with complete HTML, CSS, Javascript.",
+    "source": "https://muawaz123.github.io/Counter-Application/"
+  },
+  {
+    "id": 14,
+    "title": "BMI Calculator",
+    "description": "This is a project made with complete HTML, CSS, Javascript.",
+    "source": "https://muawaz123.github.io/BMI-Calculator/"
+  },
+  {
+    "id": 15,
+    "title": "UX UI Portfolio",
+    "description": "This is a project made with complete UX//UI.",
+    "source": "https://www.figma.com/proto/0WTPS6adVomQgUg7f3Wv7X/Portfolio?node-id=2-3&starting-point-node-id=2%3A3&t=RlXI3tHsPBjhCSEN-1"
+  },
+  {
+    "id": 16,
+    "title": "UX UI Foodcourt",
+    "description": "This is a project made with complete UX//UI.",
+    "source": "https://www.figma.com/proto/Bzbxcoq1u0r4Sj4RfnRhzL/Restaurant?node-id=33-3&t=cOJ3w3dj6YsAdSSv-1"
+  }
+]

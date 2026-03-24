@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Microsoft Office"
+  },
+  {
+    "id": 2,
+    "title": "VS Code"
+  },
+  {
+    "id": 3,
+    "title": "Figma"
+  },
+  {
+    "id": 4,
+    "title": "Cisco Packet Tracer"
+  },
+  {
+    "id": 5,
+    "title": "SQL Server"
+  },
+  {
+    "id": 6,
+    "title": "Canva"
+  }
+]

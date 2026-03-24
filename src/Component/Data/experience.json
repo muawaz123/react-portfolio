@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "role": "Frontend Developer Intern",
+        "organisation": "United Software and Technologies International Pvt. Ltd",
+        "startDate": "October, 2025",
+        "endDate": "January, 2026",
+        "location": "Lahore",
+        "experiences": [
+            "Worked as a Frontend Developer Intern using Next.js to build responsive and modern UI components.",
+            "Developed user-friendly interfaces with a focus on performance and scalability.",
+            "Contributed to full stack projects by integrating frontend with backend APIs.",
+            "Collaborated with the development team to implement real-world application features."
+        ]
+    },
+    {
+        "id": 2,
+        "role": "Coordinator/Focal Person",
+        "organisation": "Cyber Tech/Aspire Coaching Center(NAVTTC Course Center)",
+        "startDate": "March, 2025",
+        "endDate": "Present",
+        "location": "Lahore",
+        "experiences": [
+            "Managed daily attendance sheets and maintained accurate records using Microsoft Excel.",
+            "Managed NAVTTC Course Center, ensuring smooth operations and resolving issues.",
+            "Demonstrated effective time management and team coordination for center operations.",
+            "Contributed to data entry tasks and reporting for center-level documentation."
+        ]
+    },
+    {
+        "id": 3,
+        "role": "IT Support",
+        "organisation": "Lahore Garrison University",
+        "startDate": "October, 2024",
+        "endDate": "March, 2025",
+        "location": "Lahore",
+        "experiences": [
+            "Installed and configured network devices to ensure connectivity.",
+            "Provided troubleshooting support for hardware and software issues.",
+            "Utilized Cisco Packet Tracer for network simulations and problem-solving."
+        ]
+    }
+]
